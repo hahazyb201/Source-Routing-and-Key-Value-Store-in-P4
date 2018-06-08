@@ -1,0 +1,4 @@
+table_set_default ppp _drop
+table_add ppp get 0 =>
+table_add ppp put 1 =>
+

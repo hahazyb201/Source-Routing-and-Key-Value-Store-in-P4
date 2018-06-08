@@ -1,0 +1,4 @@
+table_set_default easy_route _drop
+table_add easy_route route 1 =>
+table_add easy_route route 2 =>
+table_add easy_route route 3 =>
